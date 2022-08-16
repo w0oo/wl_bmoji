@@ -8,3 +8,6 @@ Waline|B站表情
 于是我纯手下载表情，且去掉b站特有部分表情
 
 你可以fork项目，因为是免费的
+
+使用地址：
+https://gcore.jsdelivr.net/gh/w0oo/wl_bmoji@bmoji1.0/bmoji/
