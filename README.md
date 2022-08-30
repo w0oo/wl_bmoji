@@ -1,13 +1,18 @@
 # wl_bmoji
 Waline|B站表情
 
-前作：https://github.com/s-019/W-b
+~~ 前作：https://github.com/s-019/W-b ~~
+现在Bmoji成功Pr到[walinejs/emojis](/walinejs/emojis)仓库！
 
-看到这个：https://github.com/mcxiaolan/wl-biliface
+## 使用Bmoji
+### Jsdelivr(Gcore)
+> https://gcore.jsdelivr.net/gh/w0oo/wl_bmoji@bmoji1.2/bmoji/
 
-于是我纯手下载表情，且去掉b站特有部分表情
+### Unpkg（官用）
+> https://unpkg.com/@waline/emojis@1.1.0/bmoji/
 
-你可以fork项目，因为是免费的
+## 更多
+[walinejs/emojis](/walinejs/emojis) Pr 的仓库：    
+>> [w0oo/emojis](w0oo/emojis)
 
-使用地址：
-https://gcore.jsdelivr.net/gh/w0oo/wl_bmoji@bmoji1.2/bmoji/
+提出建议：Nick8_1@qq.com
