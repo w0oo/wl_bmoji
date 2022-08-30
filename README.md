@@ -13,6 +13,6 @@ Waline|B站表情
 
 ## 更多
 [walinejs/emojis](/walinejs/emojis) Pr 的仓库：    
->> [w0oo/emojis](w0oo/emojis)
+> [w0oo/emojis](w0oo/emojis)
 
 提出建议：Nick8_1@qq.com
