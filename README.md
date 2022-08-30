@@ -11,6 +11,22 @@ Waline|B站表情
 ### Unpkg（官用）
 > https://unpkg.com/@waline/emojis@1.1.0/bmoji/
 
+#### 使用方法
+请阅读 [Waline自定义表情](https://waline.js.org/guide/client/emoji.html)
+‘‘
+
+Waline.init({
+  el: '#waline',
+  serverURL: 'https://你的Waline',
+
+  // 设置 emoji 为微博与哔哩哔哩
+  emoji: [
+    'https://unpkg.com/@waline/emojis@1.1.0/bmoji/',
+  ],
+});
+
+‘‘
+
 ## 更多
 [walinejs/emojis](https://github.com/walinejs/emojis) Pr 的仓库：    
 > [w0oo/emojis](https://github.com/w0oo/emojis)
