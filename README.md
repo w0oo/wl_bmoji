@@ -2,7 +2,7 @@
 Waline|B站表情
 
 ~~前作：https://github.com/s-019/W-b~~    
-现在Bmoji成功Pr到[walinejs/emojis](https://github.com/walinejs/emojis)仓库！
+现在Bmoji已Pr到 [walinejs/emojis](https://github.com/walinejs/emojis) 仓库中
 
 ## 使用Bmoji
 ### Jsdelivr(Gcore)
