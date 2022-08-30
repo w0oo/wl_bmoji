@@ -16,9 +16,9 @@ Waline|B站表情
 
     Waline.init({
       el: '#waline',
-      serverURL: 'https://你的Waline',
+      serverURL: '<YOUR SERVER URL>',
     
-      // 设置 emoji 为微博与哔哩哔哩
+      // 设置表情为Bmoji
       emoji: [
         'https://unpkg.com/@waline/emojis@1.1.0/bmoji/',
       ],
