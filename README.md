@@ -1,7 +1,7 @@
 # wl_bmoji
 Waline|B站表情
 
-~~ 前作：https://github.com/s-019/W-b ~~
+~~ 前作：https://github.com/s-019/W-b ~~    
 现在Bmoji成功Pr到[walinejs/emojis](/walinejs/emojis)仓库！
 
 ## 使用Bmoji
