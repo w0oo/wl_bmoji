@@ -12,7 +12,7 @@ Waline|B站表情
 > https://unpkg.com/@waline/emojis@1.1.0/bmoji/
 
 ## 更多
-[walinejs/emojis](/walinejs/emojis) Pr 的仓库：    
-> [w0oo/emojis](w0oo/emojis)
+[walinejs/emojis](./walinejs/emojis) Pr 的仓库：    
+> [w0oo/emojis](./w0oo/emojis)
 
 提出建议：Nick8_1@qq.com
