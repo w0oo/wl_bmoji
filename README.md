@@ -2,7 +2,7 @@
 Waline|B站表情
 
 ~~前作：https://github.com/s-019/W-b~~    
-现在Bmoji成功Pr到[walinejs/emojis](/walinejs/emojis)仓库！
+现在Bmoji成功Pr到[walinejs/emojis](https://github.com/walinejs/emojis)仓库！
 
 ## 使用Bmoji
 ### Jsdelivr(Gcore)
@@ -12,7 +12,7 @@ Waline|B站表情
 > https://unpkg.com/@waline/emojis@1.1.0/bmoji/
 
 ## 更多
-[walinejs/emojis](./walinejs/emojis) Pr 的仓库：    
-> [w0oo/emojis](./w0oo/emojis)
+[walinejs/emojis](https://github.com/walinejs/emojis) Pr 的仓库：    
+> [w0oo/emojis](https://github.com/w0oo/emojis)
 
 提出建议：Nick8_1@qq.com
